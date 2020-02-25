@@ -7,8 +7,8 @@ Implement a system call in linux kernel - Print out the information about given 
 Detailed information of this system call
 
 | System Call Name | System Call Number |                Function Parameters                 | Return Type |
-| :--------------: | :----------------: | :------------------------------------------------: | ----------- |
-|  print_pid_info  |        335         | (pid_t **pid**, char* **buffer**, size_t **size**) | long        |
+| :--------------: | :----------------: | :------------------------------------------------: | :---------- |
+|  print_pid_info  |        335         | (pid_t **pid**, char* **buffer**, size_t **size**) |     long    |
 
 Syscall ``print_pid_info`` will recursively print out the information about descendant processes of given process ``pid`` and store it in the ``buffer``.
 
