@@ -127,4 +127,4 @@ Kernel Output - By Using Command ``dmesg``
 
 ## License
 
-Copyright © 2020, [mental2008](https://github.com/mental2008). Released under the [MIT License](https://github.com/mental2008/linux.patch/blob/master/LICENSE).
+Copyright © 2020, [Lingyun Yang](https://github.com/mental2008). Released under the [MIT License](https://github.com/mental2008/linux.patch/blob/master/LICENSE).
